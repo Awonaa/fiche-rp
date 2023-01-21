@@ -5,5 +5,5 @@
 <li>Une version sans image : <a href="https://github.com/Awonaa/fiches-rp/blob/main/fiche%20rp%201/RP1_light_sans-image.html">pour light mode</a>/<a href="https://github.com/Awonaa/fiches-rp/blob/main/fiche%20rp%201/RP1_dark_sans-image.html">pour dark mode</a>.</li></ul>
 
 Pour changer les couleurs, il faudra les modifier au niveau du root généré au début du code. Si votre forum a un mode jour/nuit, privilégiez d'utiliser les couleurs du forum pour qu'elles s'adaptent automatiquement. 
-<br><br>Merci de <b>ne pas supprimer mon crédit</b> ni celui du/de la créateurice des icones utilisées. Les images utilisées appartiennent à <a href="https://ethereal-rpg.tumblr.com/">ethereal</a>.
+<br><br>Merci de <b>ne pas supprimer mon crédit</b> ni celui du/de la créateurice des icones utilisées. Les images utilisées en exemple appartiennent à <a href="https://ethereal-rpg.tumblr.com/">ethereal</a>.
 <br>A la moindre question, vous pouvez me contacter sur <a href="https://awonaa.tumblr.com/">mon tumblr</a> !
